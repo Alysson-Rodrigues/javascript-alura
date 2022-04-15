@@ -1,4 +1,4 @@
-console.log("Meu Primeiro programa: trabalhando com variáveis");
+console.log("trabalhando com variáveis");
 
 const idade = 26;
 
