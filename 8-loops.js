@@ -21,5 +21,5 @@ while(contador<3){
         destinoExiste = true;
         break;
     }
-    contador =+ 1;
+    contador += 1;
 }
